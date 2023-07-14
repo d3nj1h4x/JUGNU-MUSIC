@@ -1,4 +1,4 @@
-const JUGNU = require("./Client");
+const D3NJ1 = require("./Client");
 const {
   EmbedBuilder,
   ActionRowBuilder,
@@ -12,7 +12,7 @@ const { Queue } = require("distube");
 
 /**
  *
- * @param {JUGNU} client
+ * @param {D3NJ1} client
  */
 module.exports = async (client) => {
   // code
