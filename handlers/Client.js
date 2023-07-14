@@ -134,4 +134,4 @@ class JUGNU extends Client {
   }
 }
 
-module.exports = JUGNU;
+module.exports = D3NJ1;
