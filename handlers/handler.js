@@ -4,11 +4,11 @@ const {
 } = require("discord.js");
 const { readdirSync } = require("fs");
 const { slash } = require("../settings/config");
-const JUGNU = require("./Client");
+const D3NJ1 = require("./Client");
 
 /**
  *
- * @param {JUGNU} client
+ * @param {D3NJ1} client
  */
 module.exports = async (client) => {
   // LOADING SLASH COMMANDS
