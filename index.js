@@ -1,8 +1,8 @@
 require("dotenv").config();
-const JUGNU = require("./handlers/Client");
+const D3NJ1 = require("./handlers/Client");
 const { TOKEN } = require("./settings/config");
 
-const client = new JUGNU();
+const client = new D3NJ1();
 
 module.exports = client;
 
